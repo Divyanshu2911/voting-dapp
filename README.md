@@ -1,3 +1,5 @@
+# voting-dapp
+
 This is a project on decentralized voting application.
 
 To run this project, follow the below mentioned steps.
